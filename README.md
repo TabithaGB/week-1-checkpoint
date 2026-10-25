@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+https://tabithagb.github.io/week-1-checkpoint/
+
 ## My setup
 
 - Operating system: macOS
@@ -19,3 +21,5 @@
 | 5   | Added my goals section                      | Add list of goals    | main   |
 | 6   | Updated my ACP log   | Update ACP log | main  |
 | 7   | Added a list of things I like | Add list of things i like  | main |
+| 8   | Saved info on both files | Save all info | main |
+| 9   | 
