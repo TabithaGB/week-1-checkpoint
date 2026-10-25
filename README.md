@@ -17,3 +17,4 @@
 | 3   | Added HTML code to my first webpage   | Add first page       | main   |
 | 4   | Added an About Me section             | Add about me section | main   |
 | 5   | Added my goals                        | Add list of goals    | main   |
+
