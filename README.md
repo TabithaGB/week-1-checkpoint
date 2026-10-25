@@ -16,5 +16,6 @@
 | 2   | Created my first page                 | Add index.html       | main   |
 | 3   | Added HTML code to my first webpage   | Add first page       | main   |
 | 4   | Added an About Me section             | Add about me section | main   |
-| 5   | Added my goals                        | Add list of goals    | main   |
-
+| 5   | Added my goals section                      | Add list of goals    | main   |
+| 6   | Updated my ACP log   | Update ACP log | main  |
+| 7   | Added a list of things I like | Add list of things i like  | main |
